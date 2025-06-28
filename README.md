@@ -52,7 +52,3 @@ Dashboards included cover:
 - Regional performance metrics
 
 Refer to the 2.Tableau Dashboards/ folder to access the visualizations.
-"# cusmetics-navigation-tablue" 
-"# cusmetics-navigation-tablue" 
-"# cusmetics-navigation-tablue" 
-"# cusmetics-navigation-tablue" 
